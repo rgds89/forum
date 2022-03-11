@@ -9,6 +9,7 @@ import lombok.Getter;
 @Builder
 public class TopicoDTO {
 	
+	
 	private Long id;
 	private String titulo;
 	private String mensagem;
